@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#wrapper {
+    width: 65%;
+    max-width: 1000px;
+    min-width: 430px;
+    margin-inline: auto;
+}
